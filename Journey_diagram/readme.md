@@ -1,7 +1,6 @@
 
 ### 8. Journey Diagram
 
-```markdown
 ```mermaid
 journey
     title My Work Day
