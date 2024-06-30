@@ -22,12 +22,6 @@ District heating,Heating and cooling - homes,46.184
 Electricity grid,Over generation / exports,104.453
 Electricity grid,Heating and cooling - homes,113.726
 Electricity grid,H2 conversion,27.14
-Electricity grid,Industry,342.165
-Electricity grid,Road transport,37.797
-Electricity grid,Agriculture,4.412
-Electricity grid,Heating and cooling - commercial,40.858
-Electricity grid,Losses,56.691
-Electricity grid,Rail transport,7.863
 Electricity grid,Lighting & appliances - commercial,90.008
 Electricity grid,Lighting & appliances - homes,93.494
 Gas imports,Ngas,40.719
@@ -44,10 +38,6 @@ H2,Road transport,20.897
 Hydro,Electricity grid,6.995
 Liquid,Industry,121.066
 Liquid,International shipping,128.69
-Liquid,Road transport,135.835
-Liquid,Domestic aviation,14.458
-Liquid,International aviation,206.267
-Liquid,Agriculture,3.64
 Liquid,National navigation,33.218
 Liquid,Rail transport,4.413
 Marine algae,Bio-conversion,4.375
